@@ -20,7 +20,12 @@ const mySkills = [
     title: "Back-End Web Development",
     desc: "Developed and maintained high-performance backend systems, resulting in significant boosts to website traffic and conversion rates.",
   },
-
+  {
+    id: 3,
+    img: uiux,
+    title: "API Integration",
+    desc: "Designing and Integrate with API to Frontend",
+  },
   {
     id: 4,
     img: sd,
