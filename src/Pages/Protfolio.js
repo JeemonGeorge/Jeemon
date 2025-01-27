@@ -20,12 +20,7 @@ const mySkills = [
     title: "Back-End Web Development",
     desc: "Developed and maintained high-performance backend systems, resulting in significant boosts to website traffic and conversion rates.",
   },
-  {
-    id: 3,
-    img: uiux,
-    title: "UI/UX Design",
-    desc: "Designing the visual elements of an interface involves careful consideration of colors, typography, and images to create an appealing and cohesive user experience.",
-  },
+
   {
     id: 4,
     img: sd,
