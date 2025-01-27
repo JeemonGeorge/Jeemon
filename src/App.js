@@ -6,6 +6,7 @@ import Public from "./Pages/Common-component/Public";
 function App() {
   return (
     <div >
+      <title>Jeemon George</title>
       <Header />
       <Public className="h-full" />
       <Footer />
